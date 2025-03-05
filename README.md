@@ -1,4 +1,4 @@
-Hello, I'm Maaz, an MBA graduate with nine years of professional experience. 
+Hello, I'm Maaz, an MBA graduate with ten years of professional experience. 
 
 When I first entered the corporate world, I was introduced to Microsoft Excel. Initially, I used it to manually track my daily work by entering data each day. However, I often found myself performing repetitive tasks in Excel, which led me to explore automation through Macros. As I delved deeper into this area, I developed a passion for data, particularly relational data. I began working with large datasets and eventually integrated my Excel spreadsheets into Microsoft Power BI.
 
