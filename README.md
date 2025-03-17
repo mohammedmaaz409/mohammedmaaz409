@@ -22,6 +22,26 @@ For each project, I adopt a structured problem-solving approach that includes:
 5. Creating interactive dashboards with actionable insights.
 6. Conducting A/B testing and piloting solutions based on hypothesis validation.
 
-My skills:
-SQL | Power BI | Tableau | MS Excel | Power Point | Jira | Snowflake | Python
+## 🛠 <span style="font-size:24px;">My Skills:</span>
+
+These valuable tools and techniques empower me to analyze data, build reports, and derive meaningful insights.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/MS%20Excel-%2300A859.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MS Excel"/>
+  <img src="https://img.shields.io/badge/PowerPoint-%23D24726.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint"/>
+  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Snowflake-%2300B5E2.svg?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-%23E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+</p>
+
+## 📈 <span style="font-size:24px;">My Data Analysis Projects</span>
+
+Explore my end-to-end **Data Analysis Projects**, where I clean, analyze, and visualize real-world data using **SQL, Power BI, Tableau, and Python**.
+
+---
 
