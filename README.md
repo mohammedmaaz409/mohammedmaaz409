@@ -44,4 +44,6 @@ These valuable tools and techniques empower me to analyze data, build reports, a
 Explore my end-to-end **Data Analysis Projects**, where I clean, analyze, and visualize real-world data using **SQL, Power BI, Tableau, and Python**.
 
 ---
+## E-commerce Project
+[Customer Segmentation and Target Market Analysis (Using SQL, Python and PowerBI)](https://github.com/mohammedmaaz409/CustomerSegmentation-Ecommerce/tree/main)
 
