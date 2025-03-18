@@ -45,5 +45,6 @@ Explore my end-to-end **Data Analysis Projects**, where I clean, analyze, and vi
 
 ---
 ## E-commerce Project
-[Customer Segmentation and Target Market Analysis (Using SQL, Python and PowerBI)](https://github.com/mohammedmaaz409/CustomerSegmentation-Ecommerce/tree/main)
-
+***[Customer Segmentation and Target Market Analysis (Using SQL, Python and PowerBI)](https://github.com/mohammedmaaz409/CustomerSegmentation-Ecommerce/tree/main)***
+<br>
+![Project Screenshot](https://github.com/mohammedmaaz409/images/blob/main/Ecom.jpg)
