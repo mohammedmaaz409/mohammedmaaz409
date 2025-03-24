@@ -43,8 +43,27 @@ These valuable tools and techniques empower me to analyze data, build reports, a
 
 Explore my end-to-end **Data Analysis Projects**, where I clean, analyze, and visualize real-world data using **SQL, Power BI, Tableau, and Python**.
 
----
+
+<table>
+  <tr>
+    <td width="50%">
+      
 ## E-commerce Project
-***[Customer Segmentation and Target Market Analysis (Using SQL, Python and PowerBI)](https://github.com/mohammedmaaz409/CustomerSegmentation-Ecommerce/tree/main)***
+[Customer Segmentation and Target Market Analysis (Using SQL, Python and PowerBI)](https://github.com/mohammedmaaz409/CustomerSegmentation-Ecommerce/tree/main)
 <br>
 ![Project Screenshot](https://github.com/mohammedmaaz409/images/blob/main/Ecom.jpg)
+
+
+</td>
+  <td width="50%">
+
+
+## HealthCareProject - Hospital Readmissions Analysis (Using Python)
+[Identifying Key Factors Influencing Increased Readmissions](https://github.com/mohammedmaaz409/HealthCareProject)
+<br>
+![image](https://github.com/user-attachments/assets/2f25e786-b45f-4b34-81a9-9bda33ccd100)
+
+ </td>
+  </tr>
+</table>
+
