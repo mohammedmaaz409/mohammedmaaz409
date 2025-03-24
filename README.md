@@ -51,17 +51,17 @@ Explore my end-to-end **Data Analysis Projects**, where I clean, analyze, and vi
 ## E-commerce Project
 [Customer Segmentation and Target Market Analysis (Using SQL, Python and PowerBI)](https://github.com/mohammedmaaz409/CustomerSegmentation-Ecommerce/tree/main)
 <br>
-![Project Screenshot](https://github.com/mohammedmaaz409/images/blob/main/Ecom.jpg)
+<img src="https://github.com/mohammedmaaz409/images/blob/main/Ecom.jpg" width="100%" style="max-height: 300px; object-fit: cover;">
 
 
 </td>
-  <td width="50%">
+    <td width="50%">
 
 
 ## HealthCareProject - Hospital Readmissions Analysis (Using Python)
 [Identifying Key Factors Influencing Increased Readmissions](https://github.com/mohammedmaaz409/HealthCareProject)
 <br>
-![image](https://github.com/user-attachments/assets/2f25e786-b45f-4b34-81a9-9bda33ccd100)
+<img src="https://github.com/user-attachments/assets/2f25e786-b45f-4b34-81a9-9bda33ccd100" width="100%" style="max-height: 300px; object-fit: cover;">
 
  </td>
   </tr>
