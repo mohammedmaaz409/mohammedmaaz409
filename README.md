@@ -1,26 +1,26 @@
-Hello, I'm Maaz, an MBA graduate with ten years of professional experience. 
+Data Analyst | SQL + Power BI + Python | Transforming Data Into Business Insights.
 
-When I first entered the corporate world, I was introduced to Microsoft Excel. Initially, I used it to manually track my daily work by entering data each day. However, I often found myself performing repetitive tasks in Excel, which led me to explore automation through Macros. As I delved deeper into this area, I developed a passion for data, particularly relational data. I began working with large datasets and eventually integrated my Excel spreadsheets into Microsoft Power BI.
+I turn data chaos into clear insights. My journey began with automating Excel spreadsheets, then grew into building a dashboard and driving clear analysis using SQL, Power BI, Python, and Tableau Excel, —all focused on solving real business problems.
 
-In my previous role at Nokia, I accomplished the following:
+Why Me:
+<br>
+🚀 Operational Savings: Identified cost-saving opportunities in Nokia's operational data through Excel/SQL analysis, contributing to significant efficiency gains.
+<br>
+📊 End-to-End Analysis: From writing optimized SQL queries to designing interactive Power BI reports, I ensure data tells a actionable story.
+<br>
+🎯 Business Alignment: My MBA in Information Systems helps me bridge technical analysis with executive decision-making.
+<br><br>
+How I Work:
+<br>
+1️⃣ Ask Precise Questions: "What’s driving the trend?" → "Which levers can we adjust?"<br>
+2️⃣ Deep-Dive Analysis: Clean and analyze data using Python (pandas), SQL, and Power BI.<br>
+3️⃣ Clear Visualization: Build dashboards that highlight key trends—not just numbers.<br>
+4️⃣ Measurable Outcomes: My data-driven insights have streamlined reporting processes and identified high-impact opportunities for past employers.<br><br>
 
-- Demonstrated strong data skills in cleaning, manipulating, and creating reports that provided clear, actionable insights.
-- Contributed to saving over $3 million in operational costs by identifying and reducing redundant resources across various projects.
-- Developed clear and concise reporting, which supported the company in winning the same project three consecutive times.
-- Achieved a promotion to Technical Project Manager due to successful project outcomes and an effective problem-solving approach.
-- Trained 10 new engineers on data quality and data reporting.
-  
-In 2022, I moved to the USA to pursue an MBA in Information Systems, focusing on managing technology companies, especially in emerging fields like AI, machine learning, and data analytics. 
-Currently, I work as a Data Analyst. In both my professional and personal projects, I have extensively used tools such as SQL, Microsoft Power BI, Tableau, and Excel for Business Intelligence, importing data from various sources including SQL Server, Snowflake, Amazon Redshift, and JIRA.
-
-For each project, I adopt a structured problem-solving approach that includes:
-
-1. Clearly define the problem statement.
-2. Identifying the root cause of the problems and formulating a hypothesis.
-3. Identifying the required data tables from the databases.
-4. Writing SQL queries to extract, clean, and prepare data for visualization.
-5. Creating interactive dashboards with actionable insights.
-6. Conducting A/B testing and piloting solutions based on hypothesis validation.
+Let’s Connect if you need an analyst who:<br>
+✔️ Extracts meaningful insights from complex data (SQL + Python)<br>
+✔️ Builds intuitive dashboards (Power BI/Tableau)<br>
+✔️ Aligns data with business goals (MBA + 10 years’ experience)<br><br>
 
 ## 🛠 <span style="font-size:24px;">My Skills:</span>
 
